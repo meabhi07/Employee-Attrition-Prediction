@@ -13,7 +13,7 @@ from sklearn.metrics import r2_score
 ```python
 train = pd.read_csv('train.csv')
 test = pd.read_csv('test.csv')
-train.tail(40)
+train.tail(5)
 ```
 
 
